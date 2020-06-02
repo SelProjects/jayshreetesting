@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	DesiredCapabilities dc = new DesiredCapabilities();
 	dc.setCapability("marionatte", false);
 	FirefoxOptions opt = new FirefoxOmlmmmmmptions();
-	opt.merge(dc);l;;.,
+	opt.merge(dc);l;;.,ll
 	driver=new FirefoxDriver();*/
 	
 	
