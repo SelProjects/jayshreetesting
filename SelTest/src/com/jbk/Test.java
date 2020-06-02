@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"/geckodriver");
 	DesiredCapabilities dc = new DesiredCapabilities();
 	dc.setCapability("marionatte", false);
-	FirefoxOptions opt = new FirefoxOptions();
+	FirefoxOptions opt = new FirefoxOmlmmmmmptions();
 	opt.merge(dc);l;;.,
 	driver=new FirefoxDriver();*/
 	
